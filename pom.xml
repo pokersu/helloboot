@@ -42,7 +42,7 @@
         <snapshotRepository>
             <id>nexus-mg</id>
             <name>snapshots</name>
-            <url>http://192.168.1.16/repository/maven-publi/</url>
+            <url>http://192.168.1.16/repository/maven-public/</url>
         </snapshotRepository>
     </distributionManagement>
 
